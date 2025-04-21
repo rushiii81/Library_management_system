@@ -10,7 +10,7 @@
 ## Setup Instructions
 1. **Clone the repository**  
 
-https://github.com/rahulkale12/Library-management-system-DRF-.git
+https://github.com/rushiii81/Library-management-system-DRF-.git
 
 
 2. **Create and activate a virtual environment**  
